@@ -1,0 +1,89 @@
+D:\Programmering\BloggAPI\BloggAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\Programmering\BloggAPI\BloggAPI\bin\Debug\net6.0\appsettings.json
+D:\Programmering\BloggAPI\BloggAPI\bin\Debug\net6.0\BloggAPI.exe
+D:\Programmering\BloggAPI\BloggAPI\bin\Debug\net6.0\BloggAPI.deps.json
+D:\Programmering\BloggAPI\BloggAPI\bin\Debug\net6.0\BloggAPI.runtimeconfig.json
+D:\Programmering\BloggAPI\BloggAPI\bin\Debug\net6.0\BloggAPI.dll
+D:\Programmering\BloggAPI\BloggAPI\bin\Debug\net6.0\BloggAPI.pdb
+D:\Programmering\BloggAPI\BloggAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Programmering\BloggAPI\BloggAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Programmering\BloggAPI\BloggAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Programmering\BloggAPI\BloggAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Programmering\BloggAPI\BloggAPI\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Programmering\BloggAPI\BloggAPI\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Programmering\BloggAPI\BloggAPI\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Programmering\BloggAPI\BloggAPI\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Programmering\BloggAPI\BloggAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Programmering\BloggAPI\BloggAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Programmering\BloggAPI\BloggAPI\obj\Debug\net6.0\BloggAPI.csproj.AssemblyReference.cache
+D:\Programmering\BloggAPI\BloggAPI\obj\Debug\net6.0\BloggAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmering\BloggAPI\BloggAPI\obj\Debug\net6.0\BloggAPI.AssemblyInfoInputs.cache
+D:\Programmering\BloggAPI\BloggAPI\obj\Debug\net6.0\BloggAPI.AssemblyInfo.cs
+D:\Programmering\BloggAPI\BloggAPI\obj\Debug\net6.0\BloggAPI.csproj.CoreCompileInputs.cache
+D:\Programmering\BloggAPI\BloggAPI\obj\Debug\net6.0\BloggAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Programmering\BloggAPI\BloggAPI\obj\Debug\net6.0\BloggAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Programmering\BloggAPI\BloggAPI\obj\Debug\net6.0\staticwebassets\msbuild.BloggAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Programmering\BloggAPI\BloggAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.BloggAPI.props
+D:\Programmering\BloggAPI\BloggAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BloggAPI.props
+D:\Programmering\BloggAPI\BloggAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BloggAPI.props
+D:\Programmering\BloggAPI\BloggAPI\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Programmering\BloggAPI\BloggAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\Programmering\BloggAPI\BloggAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\Programmering\BloggAPI\BloggAPI\obj\Debug\net6.0\scopedcss\bundle\BloggAPI.styles.css
+D:\Programmering\BloggAPI\BloggAPI\obj\Debug\net6.0\BloggAPI.csproj.CopyComplete
+D:\Programmering\BloggAPI\BloggAPI\obj\Debug\net6.0\BloggAPI.dll
+D:\Programmering\BloggAPI\BloggAPI\obj\Debug\net6.0\refint\BloggAPI.dll
+D:\Programmering\BloggAPI\BloggAPI\obj\Debug\net6.0\BloggAPI.pdb
+D:\Programmering\BloggAPI\BloggAPI\obj\Debug\net6.0\BloggAPI.genruntimeconfig.cache
+D:\Programmering\BloggAPI\BloggAPI\obj\Debug\net6.0\ref\BloggAPI.dll
+D:\Programmering\Programmering Fördjupning\BloggAPI\BloggAPI\obj\Debug\net6.0\BloggAPI.csproj.AssemblyReference.cache
+D:\Programmering\Programmering Fördjupning\BloggAPI\BloggAPI\obj\Debug\net6.0\BloggAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmering\Programmering Fördjupning\BloggAPI\BloggAPI\obj\Debug\net6.0\BloggAPI.AssemblyInfoInputs.cache
+D:\Programmering\Programmering Fördjupning\BloggAPI\BloggAPI\obj\Debug\net6.0\BloggAPI.AssemblyInfo.cs
+D:\Programmering\Programmering Fördjupning\BloggAPI\BloggAPI\obj\Debug\net6.0\BloggAPI.csproj.CoreCompileInputs.cache
+D:\Programmering\Programmering Fördjupning\BloggAPI\BloggAPI\obj\Debug\net6.0\BloggAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Programmering\Programmering Fördjupning\BloggAPI\BloggAPI\obj\Debug\net6.0\BloggAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Programmering\Programmering Fördjupning\BloggAPI\BloggAPI\obj\Debug\net6.0\BloggAPI.dll
+D:\Programmering\Programmering Fördjupning\BloggAPI\BloggAPI\obj\Debug\net6.0\refint\BloggAPI.dll
+D:\Programmering\Programmering Fördjupning\BloggAPI\BloggAPI\obj\Debug\net6.0\BloggAPI.pdb
+D:\Programmering\Programmering Fördjupning\BloggAPI\BloggAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\Programmering\Programmering Fördjupning\BloggAPI\BloggAPI\bin\Debug\net6.0\appsettings.json
+D:\Programmering\Programmering Fördjupning\BloggAPI\BloggAPI\bin\Debug\net6.0\BloggAPI.exe
+D:\Programmering\Programmering Fördjupning\BloggAPI\BloggAPI\bin\Debug\net6.0\BloggAPI.deps.json
+D:\Programmering\Programmering Fördjupning\BloggAPI\BloggAPI\bin\Debug\net6.0\BloggAPI.runtimeconfig.json
+D:\Programmering\Programmering Fördjupning\BloggAPI\BloggAPI\bin\Debug\net6.0\BloggAPI.dll
+D:\Programmering\Programmering Fördjupning\BloggAPI\BloggAPI\bin\Debug\net6.0\BloggAPI.pdb
+D:\Programmering\Programmering Fördjupning\BloggAPI\BloggAPI\bin\Debug\net6.0\AWSSDK.Core.dll
+D:\Programmering\Programmering Fördjupning\BloggAPI\BloggAPI\bin\Debug\net6.0\AWSSDK.SecurityToken.dll
+D:\Programmering\Programmering Fördjupning\BloggAPI\BloggAPI\bin\Debug\net6.0\DnsClient.dll
+D:\Programmering\Programmering Fördjupning\BloggAPI\BloggAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Programmering\Programmering Fördjupning\BloggAPI\BloggAPI\bin\Debug\net6.0\MongoDB.Bson.dll
+D:\Programmering\Programmering Fördjupning\BloggAPI\BloggAPI\bin\Debug\net6.0\MongoDB.Driver.dll
+D:\Programmering\Programmering Fördjupning\BloggAPI\BloggAPI\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+D:\Programmering\Programmering Fördjupning\BloggAPI\BloggAPI\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+D:\Programmering\Programmering Fördjupning\BloggAPI\BloggAPI\bin\Debug\net6.0\SharpCompress.dll
+D:\Programmering\Programmering Fördjupning\BloggAPI\BloggAPI\bin\Debug\net6.0\Snappier.dll
+D:\Programmering\Programmering Fördjupning\BloggAPI\BloggAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Programmering\Programmering Fördjupning\BloggAPI\BloggAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Programmering\Programmering Fördjupning\BloggAPI\BloggAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Programmering\Programmering Fördjupning\BloggAPI\BloggAPI\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Programmering\Programmering Fördjupning\BloggAPI\BloggAPI\bin\Debug\net6.0\ZstdSharp.dll
+D:\Programmering\Programmering Fördjupning\BloggAPI\BloggAPI\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+D:\Programmering\Programmering Fördjupning\BloggAPI\BloggAPI\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+D:\Programmering\Programmering Fördjupning\BloggAPI\BloggAPI\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+D:\Programmering\Programmering Fördjupning\BloggAPI\BloggAPI\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Programmering\Programmering Fördjupning\BloggAPI\BloggAPI\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Programmering\Programmering Fördjupning\BloggAPI\BloggAPI\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Programmering\Programmering Fördjupning\BloggAPI\BloggAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Programmering\Programmering Fördjupning\BloggAPI\BloggAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Programmering\Programmering Fördjupning\BloggAPI\BloggAPI\obj\Debug\net6.0\staticwebassets\msbuild.BloggAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Programmering\Programmering Fördjupning\BloggAPI\BloggAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.BloggAPI.props
+D:\Programmering\Programmering Fördjupning\BloggAPI\BloggAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BloggAPI.props
+D:\Programmering\Programmering Fördjupning\BloggAPI\BloggAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BloggAPI.props
+D:\Programmering\Programmering Fördjupning\BloggAPI\BloggAPI\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Programmering\Programmering Fördjupning\BloggAPI\BloggAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\Programmering\Programmering Fördjupning\BloggAPI\BloggAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\Programmering\Programmering Fördjupning\BloggAPI\BloggAPI\obj\Debug\net6.0\scopedcss\bundle\BloggAPI.styles.css
+D:\Programmering\Programmering Fördjupning\BloggAPI\BloggAPI\obj\Debug\net6.0\BloggAPI.csproj.CopyComplete
+D:\Programmering\Programmering Fördjupning\BloggAPI\BloggAPI\obj\Debug\net6.0\BloggAPI.genruntimeconfig.cache
+D:\Programmering\Programmering Fördjupning\BloggAPI\BloggAPI\obj\Debug\net6.0\ref\BloggAPI.dll
